@@ -1,0 +1,11 @@
+C:\Users\zatee\source\repos\TeamCity\TeamCity\bin\Debug\netcoreapp3.1\TeamCity.exe
+C:\Users\zatee\source\repos\TeamCity\TeamCity\bin\Debug\netcoreapp3.1\TeamCity.deps.json
+C:\Users\zatee\source\repos\TeamCity\TeamCity\bin\Debug\netcoreapp3.1\TeamCity.runtimeconfig.json
+C:\Users\zatee\source\repos\TeamCity\TeamCity\bin\Debug\netcoreapp3.1\TeamCity.runtimeconfig.dev.json
+C:\Users\zatee\source\repos\TeamCity\TeamCity\bin\Debug\netcoreapp3.1\TeamCity.dll
+C:\Users\zatee\source\repos\TeamCity\TeamCity\bin\Debug\netcoreapp3.1\TeamCity.pdb
+C:\Users\zatee\source\repos\TeamCity\TeamCity\obj\Debug\netcoreapp3.1\TeamCity.csprojAssemblyReference.cache
+C:\Users\zatee\source\repos\TeamCity\TeamCity\obj\Debug\netcoreapp3.1\TeamCity.AssemblyInfoInputs.cache
+C:\Users\zatee\source\repos\TeamCity\TeamCity\obj\Debug\netcoreapp3.1\TeamCity.AssemblyInfo.cs
+C:\Users\zatee\source\repos\TeamCity\TeamCity\obj\Debug\netcoreapp3.1\TeamCity.dll
+C:\Users\zatee\source\repos\TeamCity\TeamCity\obj\Debug\netcoreapp3.1\TeamCity.pdb

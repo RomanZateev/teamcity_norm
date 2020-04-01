@@ -53,7 +53,7 @@ namespace TeamCityTests
         {
             TeamCity.TeamCity TeamCity = new TeamCity.TeamCity();
 
-            TeamCity.Size = 100;
+            TeamCity.Size = 10;
 
             var result = IsPrime(TeamCity.Size);
 

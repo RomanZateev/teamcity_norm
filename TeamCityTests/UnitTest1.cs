@@ -55,6 +55,8 @@ namespace TeamCityTests
 
             TeamCity.Size = 10;
 
+            //проверка SMTP сервера
+
             var result = IsPrime(TeamCity.Size);
 
             Assert.True(result, $"{TeamCity.Size} should be prime");

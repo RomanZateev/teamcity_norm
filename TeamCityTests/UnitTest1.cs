@@ -1,4 +1,3 @@
-using System;
 using Xunit;
 
 namespace TeamCityTests
@@ -10,10 +9,6 @@ namespace TeamCityTests
         public void Test1()
         {
             TeamCity.TeamCity TeamCity = new TeamCity.TeamCity();
-
-            var rand = new Random();
-
-            //TeamCity.Size = rand.Next(-10, 10);
 
             TeamCity.Size = 10;
 
@@ -36,13 +31,7 @@ namespace TeamCityTests
         {
             TeamCity.TeamCity TeamCity = new TeamCity.TeamCity();
 
-            var rand = new Random();
-
-            //TeamCity.Denominator = rand.Next(-10, 10);
-
             TeamCity.Denominator = 10;
-
-            //TeamCity.Numerator = rand.Next(-10, 10);
 
             TeamCity.Numerator = 10;
 
@@ -63,10 +52,6 @@ namespace TeamCityTests
         public void Test3()
         {
             TeamCity.TeamCity TeamCity = new TeamCity.TeamCity();
-
-            var rand = new Random();
-
-            //TeamCity.Size = rand.Next(-10, 10);
 
             TeamCity.Size = 100;
 

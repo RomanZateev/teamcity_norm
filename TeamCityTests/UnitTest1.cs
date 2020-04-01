@@ -9,11 +9,8 @@ namespace TeamCityTests
         public void Test1()
         {
             TeamCity.TeamCity TeamCity = new TeamCity.TeamCity();
-
             TeamCity.Size = 10;
-
             var result = IsPrime(TeamCity.Size);
-
             Assert.True(result, $"{TeamCity.Size} should be prime");
         }
 
@@ -30,13 +27,9 @@ namespace TeamCityTests
         public void Test2()
         {
             TeamCity.TeamCity TeamCity = new TeamCity.TeamCity();
-
             TeamCity.Denominator = 10;
-
             TeamCity.Numerator = 10;
-
             var result = IsDenominatorNotZero(TeamCity.Denominator);
-
             Assert.True(result, $"{TeamCity.Denominator} should not be zero");
         }
 
@@ -52,13 +45,8 @@ namespace TeamCityTests
         public void Test3()
         {
             TeamCity.TeamCity TeamCity = new TeamCity.TeamCity();
-
             TeamCity.Size = 10;
-
-            //проверка SMTP сервера
-
             var result = IsPrime(TeamCity.Size);
-
             Assert.True(result, $"{TeamCity.Size} should be prime");
         }
     }

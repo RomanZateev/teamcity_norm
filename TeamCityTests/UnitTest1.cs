@@ -27,8 +27,8 @@ namespace TeamCityTests
         public void Test2()
         {
             TeamCity.TeamCity TeamCity = new TeamCity.TeamCity();
-            TeamCity.Denominator = 100;
-            TeamCity.Numerator = 100;
+            TeamCity.Denominator = 10;
+            TeamCity.Numerator = 10;
             var result = IsDenominatorNotZero(TeamCity.Denominator);
             Assert.True(result, $"{TeamCity.Denominator} should not be zero");
         }

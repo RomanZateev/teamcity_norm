@@ -70,6 +70,8 @@ namespace TeamCityTests
 
             TeamCity.Size = 10;
 
+            //new update
+
             var result = IsPrime(TeamCity.Size);
 
             Assert.True(result, $"{TeamCity.Size} should be prime");

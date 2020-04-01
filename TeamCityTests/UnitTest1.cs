@@ -68,9 +68,7 @@ namespace TeamCityTests
 
             //TeamCity.Size = rand.Next(-10, 10);
 
-            TeamCity.Size = 10;
-
-            //new update
+            TeamCity.Size = 100;
 
             var result = IsPrime(TeamCity.Size);
 

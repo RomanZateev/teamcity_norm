@@ -2,7 +2,7 @@ using Xunit;
 
 namespace TeamCityTests
 {
-    public class UnitTest1
+    public class UnitTest
     {
         //проверка на неотрицательность
         [Fact]

@@ -11,7 +11,6 @@ namespace TeamCity
         public int Size
         {
             get => size;
-
             set => size = value;
         }
 
@@ -23,12 +22,10 @@ namespace TeamCity
         public void write()
         {
             size = 10;
-
             for (int i = 0; i < size; i++)
             {
                 Console.WriteLine("res: " + count(i, i + 1).ToString());
             }
-
             Console.ReadKey();
         }
 
@@ -37,7 +34,6 @@ namespace TeamCity
         public int Numerator
         {
             get => numerator;
-
             set => numerator = value;
         }
 
@@ -46,7 +42,6 @@ namespace TeamCity
         public int Denominator
         {
             get => denominator;
-
             set => denominator = value;
         }
 
